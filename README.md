@@ -1,5 +1,5 @@
-#This is my homework to re-perform the follow paper, if you wan to learn more detail, please access the paper website instead.(the code constain 3 models, MRI, NL, FUS)
-##The raw_data of MRI have no upload yet because its big-size, if you want it, contact me by e-mail:2041947608@qq.com.
+# This is my homework to re-perform the follow paper, if you wan to learn more detail, please access the paper website instead.(the code constain 3 models, MRI, NL, FUS)
+## The raw_data of MRI have no upload yet because its big-size, if you want it, contact me by e-mail:2041947608@qq.com.
 # Development and validation of an interpretable deep learning framework for Alzheimer’s disease classification
 
 This work is published in _Brain_ (https://doi.org/10.1093/brain/awaa137).
