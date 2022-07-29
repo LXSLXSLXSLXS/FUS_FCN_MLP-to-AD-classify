@@ -1,0 +1,10 @@
+# exclude everything in directory __pycache__/
+/__pycache__/*
+/mongodb/*
+/output/*
+/DPMs/*
+# /plot/
+*.pyc
+*.tif
+.*
+.png
